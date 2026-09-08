@@ -1,0 +1,22 @@
+# Ahavaco
+
+> Ahavaco designs elegant, mobile-first wedding websites and online RSVP pages for Filipino couples, for a one-time ₱299 fee with no monthly hosting cost.
+
+Ahavaco is a fully online, nationwide service in the Philippines. It works equally well for a garden wedding in Tagaytay, a beach wedding in Boracay, a garden or hotel wedding in Quezon City, or a celebration in Batangas, Antipolo, Baguio, Cebu, Metro Manila, or anywhere else in the country — the venue location never changes the price or process.
+
+Each website is a personalized version of Ahavaco's standard template and can include: a digital invitation, a live wedding countdown, an "our story" section, ceremony/reception event details, venue and Google Maps links, an entourage list, a photo gallery, a dress code guide, an RSVP-ready section, and a guest FAQ.
+
+## Pricing
+- ₱299 one-time setup. The published website stays online for life with no monthly hosting fee.
+- ₱150 per revision request after the site is approved and published. Corrections to Ahavaco's own mistakes are always free.
+- Custom domains, if requested, are separate from the ₱299 package.
+
+## How it works
+1. The couple sends their names, date, venue, colors, text, photos, and RSVP details.
+2. Ahavaco personalizes the standard template with that content.
+3. The couple reviews and approves the draft.
+4. The finished website is published as one shareable link, ready for messaging apps, social media, or a printed QR code.
+
+## Pages
+- Homepage (https://ahavaco.ph/): pricing, included features, how it works, FAQ.
+- Live demo (https://ahavaco.ph/demo/): a full sample wedding website couples can preview.
